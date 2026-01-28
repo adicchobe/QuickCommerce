@@ -1,0 +1,7 @@
+{
+  "name": "QuickDash - 10-Min Delivery",
+  "description": "A state-of-the-art quick commerce platform featuring AI-powered smart shopping, real-time tracking, and predictive inventory management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
